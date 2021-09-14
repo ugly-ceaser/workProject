@@ -1,0 +1,74 @@
+[07-Aug-2021 09:26:56 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[07-Aug-2021 09:26:56 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 00:36:32 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[08-Aug-2021 00:36:32 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 01:23:46 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 01:23:46 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 56
+[08-Aug-2021 02:08:29 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[08-Aug-2021 02:08:30 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 02:17:01 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 02:17:01 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 56
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[09-Aug-2021 13:09:27 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:09:45 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:10:06 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:14:01 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:15:15 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:19:15 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:27:03 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:27:12 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143

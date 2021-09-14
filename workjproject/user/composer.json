@@ -1,0 +1,6 @@
+{
+    "require": {
+        // "php": "^7.3 || ^8.0",
+        "peppeochi/php-cron-scheduler": "4.*"
+    }
+}
